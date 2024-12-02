@@ -4,6 +4,6 @@ with Josh Alman \
 [[arXiv]](https://arxiv.org/abs/2407.02372)
 
 <strong>Smaller Low-Depth Circuits for Kronecker Powers</strong> \
-with Yunfeng Guan, Ashwin Padaki \
+with Josh Alman, Ashwin Padaki \
 34th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2023) 
 [[arXiv]](https://arxiv.org/abs/2211.05217)
