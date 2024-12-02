@@ -1,4 +1,4 @@
-Finer-Grained Hardness of Kernel Density Estimation
+- Finer-Grained Hardness of Kernel Density Estimation
 with Josh Alman
 39th Computational Complexity Conference (CCC 2024)
 [[arXiv]](https://arxiv.org/abs/2407.02372)
