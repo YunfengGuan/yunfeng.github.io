@@ -1,16 +1,8 @@
 
+<!--- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) --->
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I am a Computer Science PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at [Columbia](https://www.columbia.edu/). Here I am fortunate to work with [Josh Alman](https://joshalman.com/) and other faculty members. I have a special interest in algebraic techniques and their applications throughout algorithm design and complexity theory.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Previously I completed my master program also at [Columbia](https://www.columbia.edu/), after graduating from [Zhejiang University](https://www.zju.edu.cn/english/) as an undergrad.
 
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Currently I am planning a transfer to other PhD programs due to visa issues.
